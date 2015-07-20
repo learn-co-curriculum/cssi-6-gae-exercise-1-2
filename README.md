@@ -17,7 +17,7 @@ Enter "dice" as the Application Name, browse to your dev directory in the "Appli
 
 Click the "Run" button in GoogleAppEngineLauncher.
 
-This creates a new ~/dev/dice directory with app.yaml and main.py files in it. Open these file to see what they look like. Go to http://localhost:8082/ and see what happens.
+This creates a new dice directory with app.yaml and main.py files in it. Open these file to see what they look like. Go to http://localhost:8082/ and see what happens.
 
 Task 1:
 Copy your dice-rolling program into main.py and modify it so that it writes a list of die rolls when you go to http://localhost:8082/roll.
