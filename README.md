@@ -1,9 +1,4 @@
----
-tags:cssi, appengine, python
-level: 3
-languages: python
-resources:
----
+
 
 # Appengine Launching Exercise 1 & 2
 
