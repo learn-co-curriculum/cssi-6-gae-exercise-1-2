@@ -59,3 +59,5 @@ The home page (/) should describe what the app does and provide some sample link
 `/generate` should run as fast as possible.
 
 Your apps can be evaluated on (a) how well your app meets this spec, (b) how well you handle bad input, and (c) how fast your functions run.
+
+<a href='https://learn.co/lessons/cssi-6-gae-exercise-1-2' data-visibility='hidden'>View this lesson on Learn.co</a>
